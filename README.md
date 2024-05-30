@@ -1,4 +1,4 @@
-# CRUD-App-MERN-Stack
+# Contact-Hub, CRUD-App-MERN-Stack
 A CRUD App where user can create, read, update and delete the details page in no load time, using MERN Stack and Axios library to bring the HTTP request from the backend- NodeJs
 ### Using React Function based components, NodeJs and Express used in backend, mongodb as a database, Axios library.
 
